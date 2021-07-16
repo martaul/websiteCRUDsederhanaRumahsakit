@@ -1,2 +1,2 @@
-# websiteCRUDsederhanaRumahsakit
-Website CRUD Rumah sakit (UAS MATKUL WEB PROGRAMMING)
+# websiteCRUDsederhanaRSekolah
+Website CRUD Sekolah (UAS MATKUL WEB PROGRAMMING)
